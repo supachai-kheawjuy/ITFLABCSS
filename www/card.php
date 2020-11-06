@@ -62,7 +62,7 @@
                 </div>
             </div>
         </div>
-        <a href="/index.html" class="btn btn-danger">Back</a>
+        <a href="/index.php" class="btn btn-danger">Back</a>
     </div>
 </body>
 </html>
