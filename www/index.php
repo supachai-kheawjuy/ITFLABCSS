@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="row">
-            <a href="/card.html" class="btn btn-primary">Card</a>
+            <a href="/card.php" class="btn btn-primary">Card</a>
             <a href="https://www.google.com" class="btn btn-danger">Google</a>
         </div>
     </div>
